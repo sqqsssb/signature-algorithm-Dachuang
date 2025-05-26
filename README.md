@@ -1,2 +1,3 @@
 # signature-algorithm-Dachuang
-包含数字签名大创项目的Fabric链码（包含ECDSA、Schnorr和BLS三个数字签名算法）
+asset.go中包含了ECDSA 、Schnorr、BLS算法
+basic.go中在3个算法的基础上增加了Pixel
